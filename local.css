@@ -2745,6 +2745,10 @@ ul.ul--standard{
 	border-color: #79242f !important;
 }
 
+.contact-us .control-label{
+	font-size: 1.1em;
+	color: #000000;
+}
 
 
 /* Streamline fonts */
