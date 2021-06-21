@@ -2678,6 +2678,9 @@ ul.ul--standard{
 	text-decoration: underline;
 }
 
+.map .job-listing{
+	text-transform: uppercase;
+}
 
 
 /* 4.34 Contact Us */
