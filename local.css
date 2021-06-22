@@ -3156,6 +3156,18 @@ ul.ul--standard {
   }
 }
 
+/* 4.36 Job Listings Table */
+.job-listings-table {
+    
+}
+
+.job-listings-table .jobListingData {
+    float: left;
+    display: block;
+    width: 90%; 
+    margin-left:65px;
+}
+
 /* Streamline fonts */
 @font-face {
   font-family: 'icomoon';
