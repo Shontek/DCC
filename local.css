@@ -66,6 +66,7 @@ Table of Contents:
    4.33 Custom Modal
    4.34 Contact US
    4.35 Job exploration tool
+   4.36 Job Listings Table
 =================================*/
 
 /*================================
@@ -3154,6 +3155,18 @@ ul.ul--standard {
   .jet-buttons div.col-sm-6 {
     padding: 0px 15px !important;
   }
+}
+
+/* 4.36 Job Listings Table */
+.job-listings-table {
+    
+}
+
+.job-listings-table .jobListingData {
+    float: left;
+    display: block;
+    width: 90%; 
+    margin-left:65px;
 }
 
 /* Streamline fonts */
