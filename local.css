@@ -104,6 +104,10 @@ div#main-container {
   margin: 0px auto;
 }
 
+button:focus-visible,a:focus-visible{
+	outline: 2px solid #284982 !important;
+}
+
 .main-container ul.tabs-content {
   margin-top: 0;
   margin-bottom: 0;
